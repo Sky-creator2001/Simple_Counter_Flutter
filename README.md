@@ -1,5 +1,5 @@
-# counter
- Simple Project Using class and objects
+# counter App
+ Simple Project using Flutter
  
 
 FOR EDUCATION ONLY
